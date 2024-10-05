@@ -44,8 +44,9 @@ CHECKPOINT_MODELS=(
     #dreamlike_photoreal
     #"https://huggingface.co/dreamlike-art/dreamlike-photoreal-2.0/resolve/main/dreamlike-photoreal-2.0.safetensors"
     #ArchitectureRealmix
-"https://civitai.com/api/download/models/431755?type=Model&format=SafeTensor&size=full&fp=fp16"
-
+#"https://civitai.com/api/download/models/431755?type=Model&format=SafeTensor&size=full&fp=fp16"
+#architectureexterior
+"https://civitai.com/api/download/models/138529?type=Model&format=SafeTensor&size=full&fp=fp16"
 )
 
 UNET_MODELS=(
